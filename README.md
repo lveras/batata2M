@@ -1,9 +1,10 @@
 # batata2M
 
+EM DESENVOLVIMENTO AINDA, NÃO USAR!!
+
 <h1>⚡ Script imacro para fazer 2M comentários no facebook do Batatchenha.</h1>
 
 <h2> O amigo quer parar de beber, vamos ajudar... rs</h2>
-
 
 * No seu computador, abra o google chrome; 
 * Acesse o site: https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp;
